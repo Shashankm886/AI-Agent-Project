@@ -21,4 +21,7 @@ This project is an AI assistant built with Streamlit and Together AI API, design
    TOGETHER_API_KEY = 'your_api_key_here'
 4. **Run the Application**:
    streamlit run app.py
+
+## Documentation
+For a detailed overview and documentation for the approach and strategies that went into the making of this project, please visit the following link: https://docs.google.com/document/d/1_WTbCU7H6dlusR0Qttx7gJAUkwyApCjHOpkp4NQohwA/edit?usp=sharing
   
