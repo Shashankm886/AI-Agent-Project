@@ -17,7 +17,7 @@ This project is an AI assistant built with Streamlit and Together AI API, design
    Ensure Python 3.8+ is installed, then install the required libraries:
    pip install -r requirements.txt
 3. **Configure API Key**:
-   Create a config.py file in the root directory with your Together API key:
+   In the config.py file, you can replace your Together API key:
    TOGETHER_API_KEY = 'your_api_key_here' (I have already provided a testing API key)
 4. **Run the Application**:
    streamlit run app.py
