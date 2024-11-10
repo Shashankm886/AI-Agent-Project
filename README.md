@@ -23,5 +23,5 @@ This project is an AI assistant built with Streamlit and Together AI API, design
    streamlit run app.py
 
 ## Documentation
-For a detailed overview and documentation for the approach and strategies that went into the making of this project, please visit the following link: https://docs.google.com/document/d/1_WTbCU7H6dlusR0Qttx7gJAUkwyApCjHOpkp4NQohwA/edit?usp=sharing
+For a **detailed** **overview**, **example conversations** and **documentation** for the approach and strategies that went into the making of this project, please visit the following link: https://docs.google.com/document/d/1_WTbCU7H6dlusR0Qttx7gJAUkwyApCjHOpkp4NQohwA/edit?usp=sharing
   
